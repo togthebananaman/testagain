@@ -1,0 +1,3 @@
+cd /Users/thomas/Documents/testagain
+
+open .
